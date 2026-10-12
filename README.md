@@ -13,65 +13,43 @@ Some polished. Some experimental. All mine to share.
 
 **And here's what I know a thing or two about:**
 
-⚙️ Technical Skills
 
-The fun part. Where ideas become systems, and systems occasionally become debugging sessions.
+<details>
+  <summary><b>🧠 Business Process Skills — click to expand</b></summary>
 
-Area
+  <br>
 
-What I work with
+  <i>Turns out, knowing what a system should actually accomplish is surprisingly useful.</i>
 
-AI & Agentic Systems
+  <br><br>
 
-Multi-agent orchestration, LLM integration, tool calling, MCP servers, RAG, prompt engineering, agent evaluation
-
-Software Engineering
-
-Python, REST APIs, JSON, object-oriented programming, modular architecture, Git/GitHub
-
-Systems & Integrations
-
-API orchestration, webhooks, workflow automation, n8n, SaaS/ERP integrations
-
-Data & Intelligence
-
-SQL, data modeling, ETL concepts, vector search, operational analytics
-
-Infrastructure & Deployment
-
-Linux, cloud VPS, Docker fundamentals, environment configuration, reverse proxies
-
-Product Engineering
-
-Solution architecture, technical requirements, UX flows, prototyping, testing and QA
-
-🧠 Business Process Skills
-
-Turns out, knowing what a system should actually accomplish is surprisingly useful.
-
-Area
-
-What I bring to the table
-
-Process Engineering
-
-AS-IS/TO-BE mapping, BPMN, VSM, SIPOC, process redesign, standardization
-
-Continuous Improvement
-
-Lean Six Sigma Black Belt, root cause analysis, waste elimination, performance optimization
-
-Operational Intelligence
-
-KPI architecture, dashboards, capacity planning, SLA management, performance analysis
-
-Business Architecture
-
-Business rules, operating models, requirements engineering, process-to-system translation
-
-Product & Delivery
-
-Product discovery, roadmapping, agile delivery, stakeholder alignment, implementation governance
+  <table>
+    <tr>
+      <th>Area</th>
+      <th>What I bring to the table</th>
+    </tr>
+    <tr>
+      <td><b>Process Engineering</b></td>
+      <td>AS-IS/TO-BE, BPMN, VSM, SIPOC, process redesign</td>
+    </tr>
+    <tr>
+      <td><b>Continuous Improvement</b></td>
+      <td>Lean Six Sigma Black Belt, root cause analysis, optimization</td>
+    </tr>
+    <tr>
+      <td><b>Operational Intelligence</b></td>
+      <td>KPI architecture, capacity planning, SLA management</td>
+    </tr>
+    <tr>
+      <td><b>Business Architecture</b></td>
+      <td>Operating models, business rules, requirements engineering</td>
+    </tr>
+    <tr>
+      <td><b>Product & Delivery</b></td>
+      <td>Product discovery, roadmapping, delivery governance</td>
+    </tr>
+  </table>
+</details>
 
 Change & Adoption
 
