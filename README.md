@@ -1,16 +1,14 @@
-## Hi there 👋
+## Pleased to meet you :)
 
-<!--
-**Scheuer12/Scheuer12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior-level "mashup" of business process optimization, systems architecture, and AI solution design & development.
 
-Here are some ideas to get you started:
+It took me a few years to realize that being an extremely hands-on learner had left me with a pretty decent track record of real-world impact... and surprisingly little code or infrastructure to show for it.
+You know. Ethics. Compliance. A few NDAs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# So, what should you expect to find here?
+
+Open-source tools that might actually be useful. Side projects born out of curiosity (or questionable amounts of coffee). Isolated modules showcasing how I approach technical problems. And whatever else I come up with while turning "I wonder if..." into "Well, that works."
+
+Some polished. Some experimental. All mine to share.
+
+**And here's what I know a thing or two about:**
