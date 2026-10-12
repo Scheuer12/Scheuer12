@@ -31,7 +31,7 @@ Some polished. Some experimental. All mine to share.
     </tr>
     <tr>
       <td><b>Process Engineering</b></td>
-      <td>AS-IS/TO-BE, BPMN, VSM, SIPOC, process redesign</td>
+      <td>AS-IS/TO-BE, Lean Six Sigma Black Belt, process redesign</td>
     </tr>
     <tr>
       <td><b>Continuous Improvement</b></td>
@@ -48,6 +48,10 @@ Some polished. Some experimental. All mine to share.
     <tr>
       <td><b>Product & Delivery</b></td>
       <td>Product discovery, roadmapping, delivery governance</td>
+    </tr>
+    <tr>
+      <td><b>PMO</b></td>
+      <td>Project management processes, artifacts, governance</td>
     </tr>
   </table>
 </details>
