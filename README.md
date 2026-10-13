@@ -1,5 +1,7 @@
 <div align="center">
 
+You don't happen to have a project needing a experienced lead or another technical member, do you? :)
+
 # Pleased to meet you :)
 
 **LLM / GenAI · Agentic Solutions · Business Systems**
@@ -144,7 +146,7 @@ I tend to learn things backwards: **find a problem, figure out what makes it tic
 - **Side quests** involving simulations, automation, agents, and whatever curiosity gets me into next.
 - **Experiments in public**, including the lessons from ideas that don't work on the first attempt.
 
-If something sparks an idea, open an issue or join the discussion. I'm always up for a good technical conversation — especially the kind that starts with *"This probably shouldn't work, but..."*
+If something sparks an idea, open an issue or join the discussion. I'm always up for a good conversation. Or an interview - you don't happen to have a project needing a experienced lead or another technical member, do you? :)
 
 <div align="center">
 
