@@ -86,7 +86,7 @@ I tend to learn things backwards: **find a problem, figure out what makes it tic
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
 
 <details open>
-  <summary><b>⚙️ Technical Skills, the fun part</b></summary>
+  <summary><b>⚙️ Technical Skills, the fun part (click to expand)</b></summary>
 
   <br>
 
@@ -112,7 +112,7 @@ I tend to learn things backwards: **find a problem, figure out what makes it tic
 <br>
 
 <details>
-  <summary><b>🧠 Business Process Skills... there's a reason I build these things</b></summary>
+  <summary><b>🧠 Business Process Skills... there's a reason I build these things (click to expand)</b></summary>
 
   <br>
 
